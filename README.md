@@ -1,7 +1,7 @@
 ## Installation and Setup
 
 ### 1. Clone this repo
-`git clone https://github.com/harshawasthi512/`
+`git clone https://github.com/harshawasthi512/teamalpha-genai`
 
 ### 2. Navigate to the backend directory and run backend
  - `cd genai/backend`
